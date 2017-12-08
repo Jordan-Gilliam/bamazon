@@ -2,7 +2,7 @@
 node.js | command line amazon like storefront
 Instructions
 
-###Challenge #1: Customer View 
+### Challenge #1: Customer View 
 
 1. Create a MySQL Database called `bamazon`.
 
